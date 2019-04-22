@@ -1,2 +1,0 @@
-# ProjectArcy
-Created with CodeSandbox
